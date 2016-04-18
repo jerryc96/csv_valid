@@ -1,0 +1,21 @@
+{
+  "name": "csv_valid",
+  "version": "0.1.0",
+  "main": "main.js",
+  "license": "Apache",
+  "dependencies": {
+    "commander":"^2.9.0",
+    "bootstrap":"^3.3.5",
+    "babyparse":"^0.4.3",
+    "bootbox":"^4.4.0",
+    "angular":"^1.5.3"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "cmd_csv": "index.js"
+  },
+  "readmeFilename": "Readme.md",
+  "engines": {
+    "node": ">= 0.10.x"
+  }
+}
