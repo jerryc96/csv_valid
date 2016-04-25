@@ -1,7 +1,7 @@
 # csv_valid
 Short Command Line tool for validating CSV files by PHIX standards in NodeJS.
 
-How to install:
+**How to install:**
 
 1) download and unpackage zip file
 
@@ -11,7 +11,7 @@ How to install:
 
 4) run npm install to install all dependencies.
 
-How to run:
+**How to run:**
 
 1) Open up command line and go to the directory the application is located in. cd [*-path to directory*]
 
