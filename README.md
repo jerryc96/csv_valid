@@ -13,7 +13,7 @@ How to install:
 
 How to run:
 
-1) Open up command line and go to the directory the application is located in. cd [*-path to directory*]
+1) Open up command line and go to the directory the application is located in. cd [*-path to directory*]\n
 2) run command *node index.js -r [path to csv file]*
 
 Application returns a csv file containing all the valid entries, a csv file containing all the invalid entries and a text file listing all the problematic rows and the problems on each row.
